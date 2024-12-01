@@ -6,7 +6,11 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=LYXOfficial&show_icons=true&include_all_commits=true)](https://github.com/LYXOfficial/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyxofficial&layout=compact)](https://github.com/lyxofficial/github-readme-stats)
 
+事26届 CQ 初中生qwq
+
 ### Tech Stack
+
+~~（咱事都沾一点但是都很菜的那种w）～～
 
 Programming Languages:
 
@@ -26,7 +30,7 @@ Frameworks:
 
 OS:
 
-![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=wine&logoColor=white)
+![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![](https://img.shields.io/badge/Lingmo-007CFF?style=flat-square) ![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=wine&logoColor=white)
 
 Embedded:
 
