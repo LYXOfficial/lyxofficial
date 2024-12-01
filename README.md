@@ -10,4 +10,4 @@
 
 Programming Languages:
 
-![](https://img.shields.io/badge/C-gray?style=flat-square&logo=C) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) 
+![](https://img.shields.io/badge/C-red?style=flat-square&logo=C) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) 
