@@ -10,4 +10,10 @@
 
 Programming Languages:
 
-![](https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black) ![](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black) ![](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white) ![](https://img.shields.io/badge/TSX-blue?style=flat-square&logo=react&logoColor=white)
+
+Stylesheet
+
+Markup Languages:
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) ![](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) ![](https://img.shields.io/badge/TOML-9C4121?style=flat-square&logo=toml&logoColor=white) ![](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white) ![](https://img.shields.io/badge/PUG-A86454?style=flat-square&logo=pug&logoColor=white) 
