@@ -20,11 +20,11 @@ Programming Languages:
 
 Stylesheet:
 
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=white) ![](https://img.shields.io/badge/Stylus-333333?style=flat-square&logo=stylus&logoColor=white) ![](https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white) 
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=white) ![](https://img.shields.io/badge/Stylus-333333?style=flat-square&logo=stylus&logoColor=white) ![](https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white) ![](https://img.shields.io/badge/QSS-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 Markup Languages:
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) ![](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) ![](https://img.shields.io/badge/TOML-9C4121?style=flat-square&logo=toml&logoColor=white) ![](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white) ![](https://img.shields.io/badge/PUG-A86454?style=flat-square&logo=pug&logoColor=white) ![](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=white) 
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/XML-005FAD?style=flat-square&logo=xml&logoColor=white) ![](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) ![](https://img.shields.io/badge/TOML-9C4121?style=flat-square&logo=toml&logoColor=white) ![](https://img.shields.io/badge/JSON-black?style=flat-square&logo=json&logoColor=white) ![](https://img.shields.io/badge/PUG-A86454?style=flat-square&logo=pug&logoColor=white) ![](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=white) ![](https://img.shields.io/badge/QML-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 Frameworks:
 
