@@ -20,7 +20,7 @@ Programming Languages:
 
 Stylesheet:
 
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=white) ![](https://img.shields.io/badge/Stylus-333333?style=flat-square&logo=stylus&logoColor=white) 
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=white) ![](https://img.shields.io/badge/Stylus-333333?style=flat-square&logo=stylus&logoColor=white) ![](https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white) 
 
 Markup Languages:
 
@@ -32,7 +32,7 @@ Frameworks:
 
 OS:
 
-![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![](https://img.shields.io/badge/Lingmo-007CFF?style=flat-square) ![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=wine&logoColor=white)
+![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![](https://img.shields.io/badge/Lingmo-007CFF?style=flat-square) ![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=wine&logoColor=white) ![](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/HarmonyOS-black?style=flat-square&logo=harmonyos&logoColor=white) 
 
 Embedded:
 
@@ -44,4 +44,4 @@ Database:
 
 Others:
 
-![](https://img.shields.io/badge/Fusion360-orange?style=flat-square&logo=autodesk&logoColor=white) ![](https://img.shields.io/badge/BambuLab-00AE42?style=flat-square&logo=bambulab&logoColor=white) ![](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)  ![](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![](https://img.shields.io/badge/Office-red?style=flat-square&logo=libreoffice&logoColor=white) ![](https://img.shields.io/badge/JLCEDA-blue?style=flat-square)
+![](https://img.shields.io/badge/Fusion360-orange?style=flat-square&logo=autodesk&logoColor=white) ![](https://img.shields.io/badge/BambuLab-00AE42?style=flat-square&logo=bambulab&logoColor=white) ![](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)  ![](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![](https://img.shields.io/badge/Office-red?style=flat-square&logo=libreoffice&logoColor=white) ![](https://img.shields.io/badge/JLCEDA-blue?style=flat-square) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
