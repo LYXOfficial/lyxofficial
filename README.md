@@ -23,3 +23,7 @@ Markup Languages:
 Frameworks:
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white) ![](https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
+
+OS:
+
+![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
