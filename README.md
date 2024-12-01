@@ -32,7 +32,7 @@ Frameworks:
 
 OS:
 
-![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![](https://img.shields.io/badge/Lingmo-007CFF?style=flat-square) ![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=wine&logoColor=white) ![](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/HarmonyOS-black?style=flat-square&logo=harmonyos&logoColor=white) 
+![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![](https://img.shields.io/badge/LingmoOS-007CFF?style=flat-square) ![](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white) ![](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=wine&logoColor=white) ![](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/HarmonyOS-black?style=flat-square&logo=harmonyos&logoColor=white) 
 
 Embedded:
 
