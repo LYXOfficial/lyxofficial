@@ -10,4 +10,4 @@
 
 Programming Languages:
 
-![](https://img.shields.io/badge/C-red?style=flat-square&logo=C) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) 
+![](https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black) ![](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white)
