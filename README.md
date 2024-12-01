@@ -10,7 +10,7 @@
 
 ### Tech Stack
 
-~ （咱事都沾一点但是都很菜的那种w）~
+~~（咱事都沾一点但是都很菜的那种w）~~
 
 Programming Languages:
 
