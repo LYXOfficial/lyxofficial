@@ -26,7 +26,7 @@ Frameworks:
 
 OS:
 
-![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white)
+![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white)
 
 Embedded:
 
