@@ -26,7 +26,7 @@ Frameworks:
 
 OS:
 
-![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white)
+![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=wine&logoColor=white)
 
 Embedded:
 
@@ -38,4 +38,4 @@ Database:
 
 Others:
 
-![](https://img.shields.io/badge/Fusion360-orange?style=flat-square) ![](https://img.shields.io/badge/BambuLab-00AE42?style=flat-square&logo=bambulab&logoColor=white) ![](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)  ![](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![](https://img.shields.io/badge/Office-red?style=flat-square&logo=libreoffice&logoColor=white) ![](https://img.shields.io/badge/JLCEDA-blue?style=flat-square)
+![](https://img.shields.io/badge/Fusion360-orange?style=flat-square) ![](https://img.shields.io/badge/BambuLab-00AE42?style=flat-square&logo=bambulab&logoColor=white) ![](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)  ![](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white) ![](https://img.shields.io/badge/Office-red?style=flat-square&logo=libreoffice&logoColor=white) ![](https://img.shields.io/badge/JLCEDA-blue?style=flat-square)
