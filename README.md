@@ -22,10 +22,13 @@ Markup Languages:
 
 Frameworks:
 
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white) ![](https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![](https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white) ![](https://img.shields.io/badge/tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) ![](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white) ![](https://img.shields.io/badge/Win32API-blue?style=flat-square&logo=wine&logoColor=white) ![](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) 
 
 OS:
 
-![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white) ![](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=windows&logoColor=white) 
+![](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white) ![](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![](https://img.shields.io/badge/Deepin-007CFF?style=flat-square&logo=deepin&logoColor=white)
 
+Embedded:
+
+![](https://img.shields.io/badge/Espressif-E7352C?style=flat-square&logo=espressif&logoColor=white) ![](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![](https://img.shields.io/badge/STC51-blue?style=flat-square) 
 
