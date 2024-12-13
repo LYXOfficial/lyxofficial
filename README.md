@@ -4,7 +4,7 @@
 
 [@cqxflyx](https://github.com/cqxflyx) 是我的垃圾场qaq
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=LYXOfficial&show_icons=true&include_all_commits=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYXOfficial&layout=compact&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=LYXOfficial&show_icons=true&include_all_commits=true&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYXOfficial&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 事 2026 届 CQ 初中前 OIer qwq
 
