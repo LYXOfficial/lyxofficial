@@ -1,3 +1,5 @@
+![mobileqq_card_pic_1736351051265](https://github.com/user-attachments/assets/dcc82dc8-9217-4ff5-a544-fc0074459762)
+
 ## 你好啊！欢迎来到我的Github主页w=w
 
 你是第![](https://count.kjchmc.cn/get/@ariasaka)个访问主页的哦喵！（2024-7-14+）
@@ -29,9 +31,9 @@
 - B站：https://space.bilibili.com/369280472
 - Github: @LYXOfficial @cqxflyx （垃圾场小号喵）
 - 知乎：https://www.zhihu.com/people/lyx-29-86-4
-- CSDN：
-- 博客园：
-- Gitee：
+- CSDN：https://blog.csdn.net/weixin_44101108
+- 博客园：https://home.cnblogs.com/u/LYXOfficial
+- Gitee：https://gitee.com/lyxofficial
 - QQ：2192016328
 - 百度：（还有不堪入目米米世界一战黑历史欸）
 - Discord：封了喵
