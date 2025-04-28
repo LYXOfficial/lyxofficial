@@ -2,13 +2,41 @@
 
 你是第![](https://count.kjchmc.cn/get/@ariasaka)个访问主页的哦喵！（2024-7-14+）
 
-[@cqxflyx](https://github.com/cqxflyx) 是我的垃圾场qaq
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=LYXOfficial&show_icons=true&include_all_commits=true&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYXOfficial&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-事 2026 届 CQ 初中前 OIer qwq
+### Nya~
 
-另外来我的博客玩玩吧～[0v0.my](https://0v0.my)
+来介绍一下咱自己吧QwQ~
+
+事一只可爱的小猫娘呢，平常就会写点代码什么的然后发Github水什么的嘛喵 /≥w≤/
+
+目前是初中生呢，是15岁的幼幼女孩子（？，好像是26届毕业初二来着，不过为什么这么大嘛ww，之前休过学什么的啦~
+
+现在在重庆主城上学的说（西附噢！），以前在涪陵（就是那个pei陵榨菜的涪陵啦，老家在四川那边。。。要是有重庆的小伙伴就好惹~
+
+以前是OIer嘛，拿过CSP-J 2023 1=欸！可是因为前面的事情，AFO了www
+
+还有什么的，就是...咱喜欢听那种敲可爱的术力口喵，还是车迷欸噢，成分好杂（揣手手）！
+
+关于性别这方面嘛，就是...xyn喵，大概就是纯粹的MtF吧，敲想当可爱的女孩子呢！性取向这些，大概是泛性别吧ヾ(≧▽≦*)o
+
+另外来咱的博客玩玩吧～[0v0.my](https://0v0.my)
+
+### 一些账号噢
+
+- 博客：https://blog.yaria.top https://0v0.my
+- 洛谷：https://luogu.com.cn/761305
+- B站：https://space.bilibili.com/369280472
+- Github: @LYXOfficial @cqxflyx （垃圾场小号喵）
+- 知乎：https://www.zhihu.com/people/lyx-29-86-4
+- CSDN：
+- 博客园：
+- Gitee：
+- QQ：2192016328
+- 百度：（还有不堪入目米米世界一战黑历史欸）
+- Discord：封了喵
+- X：https://x.com/cn_aria_lyx
+- TG：封了喵
 
 ### Tech Stack
 
