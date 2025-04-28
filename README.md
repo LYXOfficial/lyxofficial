@@ -1,4 +1,4 @@
-![mobileqq_card_pic_1736351051265](https://github.com/user-attachments/assets/dcc82dc8-9217-4ff5-a544-fc0074459762)
+![mobileqq_card_pic_1736351051265](https://github.com/user-attachments/assets/35a5f8be-372e-4ed2-bca3-ff2ba6cfb429)
 
 ## 你好啊！欢迎来到我的Github主页w=w
 
