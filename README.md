@@ -1,12 +1,9 @@
-![mobileqq_card_pic_1736351051265](https://github.com/user-attachments/assets/35a5f8be-372e-4ed2-bca3-ff2ba6cfb429)
 
 ## 你好啊！欢迎来到我的Github主页w=w
 
 你是第![](https://count.kjchmc.cn/get/@ariasaka)个访问主页的哦！（2024-7-14+）
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=LYXOfficial&show_icons=true&include_all_commits=true&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYXOfficial&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-
-目前是初中生，现在在重庆上学的说，前OIer，CSP-J 2023一等但是afo了（逃
+目前是中学生，现在在重庆上学的说，前OIer，CSP-J 2023一等但是afo了（逃
 
 另外来博客玩玩吧～[0v0.my](https://0v0.my)
 
