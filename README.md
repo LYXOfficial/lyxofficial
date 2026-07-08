@@ -2,25 +2,15 @@
 
 ## 你好啊！欢迎来到我的Github主页w=w
 
-你是第![](https://count.kjchmc.cn/get/@ariasaka)个访问主页的哦喵！（2024-7-14+）
+你是第![](https://count.kjchmc.cn/get/@ariasaka)个访问主页的哦！（2024-7-14+）
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=LYXOfficial&show_icons=true&include_all_commits=true&locale=en)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LYXOfficial&layout=compact&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
-### Nya~
+目前是初中生，现在在重庆上学的说，前OIer，CSP-J 2023一等但是afo了（逃
 
-来介绍一下咱自己吧QwQ~
+另外来博客玩玩吧～[0v0.my](https://0v0.my)
 
-事一只可爱的小猫娘呢，平常就会写点代码什么的然后发Github水什么的嘛喵 /≥w≤/
-
-目前是初中生呢~现在在重庆上学的说
-
-以前是OIer嘛，拿过CSP-J 2023 1=欸！可是因为前面的事情，AFO了www
-
-还有什么的，就是...咱喜欢听那种敲可爱的术力口喵，还是车迷欸噢，成分好杂（揣手手）！
-
-另外来咱的博客玩玩吧～[0v0.my](https://0v0.my)
-
-### 一些账号噢
+### 一些账号喵
 
 - 博客：https://blog.yaria.top https://0v0.my
 - 洛谷：https://luogu.com.cn/761305
@@ -30,21 +20,16 @@
 - CSDN：https://blog.csdn.net/weixin_44101108
 - 博客园：https://home.cnblogs.com/u/LYXOfficial
 - Gitee：https://gitee.com/lyxofficial
-- Discord：封了喵
-- X：https://x.com/cn_aria_lyx
-- TG：封了喵
 
 ### Tech Stack
 
-~~（咱事都沾一点但是都很菜的那种w）~~
-
 Programming Languages:
 
-![](https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white) ![](https://img.shields.io/badge/TSX-blue?style=flat-square&logo=react&logoColor=white)
+![](https://img.shields.io/badge/C-gray?style=flat-square&logo=C&logoColor=white) ![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus) ![](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![](https://img.shields.io/badge/TSX-blue?style=flat-square&logo=react&logoColor=white)
 
 Stylesheet:
 
-![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=white) ![](https://img.shields.io/badge/Stylus-333333?style=flat-square&logo=stylus&logoColor=white) ![](https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white) ![](https://img.shields.io/badge/QSS-41CD52?style=flat-square&logo=qt&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Scss-CC6699?style=flat-square&logo=sass&logoColor=white) ![](https://img.shields.io/badge/Stylus-333333?style=flat-square&logo=stylus&logoColor=white) ![](https://img.shields.io/badge/QSS-41CD52?style=flat-square&logo=qt&logoColor=white)
 
 Markup Languages:
 
