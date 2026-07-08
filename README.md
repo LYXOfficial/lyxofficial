@@ -13,7 +13,6 @@
 - 洛谷：https://luogu.com.cn/761305
 - B站：https://space.bilibili.com/369280472
 - Github: @LYXOfficial @cqxflyx （垃圾场小号喵）
-- 知乎：https://www.zhihu.com/people/lyx-29-86-4
 - CSDN：https://blog.csdn.net/weixin_44101108
 - 博客园：https://home.cnblogs.com/u/LYXOfficial
 - Gitee：https://gitee.com/lyxofficial
